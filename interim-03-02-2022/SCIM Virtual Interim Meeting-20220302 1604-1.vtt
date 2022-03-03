@@ -1,0 +1,2342 @@
+WEBVTT
+
+1
+00:00:02.789 --> 00:00:06.570
+All right welcome everyone. Um, this is.
+
+2
+00:00:06.570 --> 00:00:10.019
+A, um, skin.
+
+3
+00:00:10.019 --> 00:00:15.179
+Virtual interim session, and we are recording.
+
+4
+00:00:15.179 --> 00:00:23.429
+We are also following the procedures, so the note well applies, um.
+
+5
+00:00:23.429 --> 00:00:37.140
+I think most of you have joined in the past so you should be familiar with and as well, which is basically describing the code of conduct and.
+
+6
+00:00:37.140 --> 00:00:43.049
+Process and procedures for how we conduct our sessions. Um.
+
+7
+00:00:43.049 --> 00:00:46.409
+I wanted to go ahead and get started with the.
+
+8
+00:00:46.409 --> 00:00:51.179
+Agenda bashing. Oh, my apologies. Aaron.
+
+9
+00:00:51.179 --> 00:01:01.350
+I forgot to add you here. See, this is what I get for doing it last minute. So, 1st, order of business. I want to welcome.
+
+10
+00:01:02.609 --> 00:01:05.939
+Our Co chair for this.
+
+11
+00:01:05.939 --> 00:01:09.150
+Group and that's Erin.
+
+12
+00:01:09.150 --> 00:01:18.689
+So, welcome, Eric, I don't know if you wanted to say anything.
+
+13
+00:01:21.060 --> 00:01:29.010
+Oh, you're on mute many audio buttons. There we go. There. You go.
+
+14
+00:01:29.010 --> 00:01:32.040
+Nice to be here. Thanks.
+
+15
+00:01:32.040 --> 00:01:38.579
+Or having me, um, so, yeah, I'll just give a little background on myself. I'm, um.
+
+16
+00:01:38.579 --> 00:01:43.349
+Primarily been involved with the groups that you may know me from from that world.
+
+17
+00:01:43.349 --> 00:01:55.859
+And I work at Octa doing primarily training education around and security concepts. So this I've been involved with the.
+
+18
+00:01:55.859 --> 00:02:00.659
+Oscar for quite a while uh, but probably most.
+
+19
+00:02:00.659 --> 00:02:04.500
+Actively since, I don't know, 4 years ago or so.
+
+20
+00:02:04.500 --> 00:02:12.270
+Um, and this, this is my 1st role as a chair so I am new to that side of the process.
+
+21
+00:02:13.349 --> 00:02:19.889
+Well, I'm I'm much appreciative of you willing to CO chair with me so I'm.
+
+22
+00:02:19.889 --> 00:02:23.250
+I'm looking forward to our engagement here.
+
+23
+00:02:23.250 --> 00:02:28.020
+Okay, so, um, that said.
+
+24
+00:02:28.020 --> 00:02:37.229
+I had come into your call to be 1 of our note takers. Could I have a 2nd, and potentially a 3rd 1 I've got the link up here.
+
+25
+00:02:37.229 --> 00:02:46.409
+It would be great if we had more than 1 just so that we can capture it and follow perhaps later.
+
+26
+00:02:46.409 --> 00:02:50.879
+If you can help me with the, uh.
+
+27
+00:02:50.879 --> 00:02:54.659
+Text extraction, you know, I can, um.
+
+28
+00:02:54.659 --> 00:02:57.689
+For completing that up too. Sure.
+
+29
+00:02:58.919 --> 00:03:02.039
+Anybody else who could help with a notetaking?
+
+30
+00:03:11.580 --> 00:03:17.520
+Hello? Hello?
+
+31
+00:03:19.199 --> 00:03:23.729
+I'm just not feeling so. Well, today, Nancy, so I'm not putting. Oh, okay.
+
+32
+00:03:23.729 --> 00:03:30.539
+Sorry, no, no worries. I'm happy to to charge in solo, Nancy. If that helps.
+
+33
+00:03:30.539 --> 00:03:36.870
+Okay, I very much appreciate it. Okay. So that said.
+
+34
+00:03:36.870 --> 00:03:43.169
+I, we need to figure out how we can get this group to be more.
+
+35
+00:03:43.169 --> 00:03:50.129
+More vocal on the males on on the slide channel, because I, I did ask for.
+
+36
+00:03:50.129 --> 00:03:54.750
+Proposals for agenda items.
+
+37
+00:03:54.750 --> 00:03:59.189
+I didn't get any, but the 1st, 2.
+
+38
+00:03:59.189 --> 00:04:04.409
+Orders of business that is in our charter is to update the use cases.
+
+39
+00:04:04.409 --> 00:04:07.469
+As well as the schemas and protocols.
+
+40
+00:04:07.469 --> 00:04:15.449
+Phil, thank you. You did provide me some feedback for adding something for the.
+
+41
+00:04:15.449 --> 00:04:20.790
+Uh, 113 and so I've got a proposed.
+
+42
+00:04:20.790 --> 00:04:29.129
+Set of items that we can discuss towards, you know, we'll reserve the last 10 minutes of of the call to go through.
+
+43
+00:04:29.129 --> 00:04:32.848
+Through the agenda for iatf 113.
+
+44
+00:04:34.199 --> 00:04:37.528
+Is there anything else that.
+
+45
+00:04:37.528 --> 00:04:42.119
+Ah, the group wants to bring up besides.
+
+46
+00:04:42.119 --> 00:04:45.329
+The updates on the use cases.
+
+47
+00:04:46.559 --> 00:04:50.819
+And the schema and the protocol updates.
+
+48
+00:04:55.738 --> 00:05:03.389
+No, I've got 1 or 2 topics. Um, there are things like drafts aren't even written about just.
+
+49
+00:05:03.389 --> 00:05:08.939
+Things that I'd like to drum up interest for maybe in, uh, solving certain problems.
+
+50
+00:05:08.939 --> 00:05:13.649
+Uh, with the, the current spec, so towards the end.
+
+51
+00:05:14.728 --> 00:05:19.468
+Okay, like, how to, uh, securely handle pictures it'd be the big 1.
+
+52
+00:05:22.918 --> 00:05:26.879
+How to securely handle? What photos your pictures.
+
+53
+00:05:26.879 --> 00:05:29.968
+Oh.
+
+54
+00:05:29.968 --> 00:05:38.728
+Okay, so also at the end of the agenda, if we don't mind talking a little bit about some housekeeping, I created a.
+
+55
+00:05:38.728 --> 00:05:41.848
+Get hub repo to collaborate yes.
+
+56
+00:05:41.848 --> 00:05:47.488
+Hoping that we can collaborate there. I've shared it with a couple of people.
+
+57
+00:05:52.709 --> 00:05:58.499
+Excellent. All right. So, um.
+
+58
+00:05:58.499 --> 00:06:10.139
+Since Pam is not here, uh, Danny and jenelle. I know you're not feeling well, but can we get an update on how the use cases.
+
+59
+00:06:10.139 --> 00:06:13.408
+Um, work is progressing.
+
+60
+00:06:13.408 --> 00:06:22.139
+Sure, so I had a call with Pam and, uh, 1 of the other people at Microsoft has involved with him. Uh, recently.
+
+61
+00:06:22.139 --> 00:06:28.468
+And, um, I'm not sure, like, precisely how much progress since.
+
+62
+00:06:28.468 --> 00:06:33.088
+The last draft that Pam shared, at least, uh, with.
+
+63
+00:06:33.088 --> 00:06:38.249
+Like, some of the people who are editing, like, I'm not sure how much move on there has been a.
+
+64
+00:06:38.543 --> 00:06:41.903
+Barely substantial amount of work on it.
+
+65
+00:06:42.173 --> 00:06:54.533
+Honestly, it feels closer if my memory is correct to a rewrite of youth cases, rather than, you know, the processing of Arata and, uh, you know, small like, clarification fixes.
+
+66
+00:06:56.608 --> 00:07:08.694
+But there's a decent amount of work there. Um, I'm not sure how much has happened in the past few weeks specifically. Tim has had a period of, uh, you know, more problems to solve than she has been with the solve them.
+
+67
+00:07:09.324 --> 00:07:23.814
+Uh, but she's working on correcting that so that she can get us to the point of having a draft ready by, uh, June and that's totally well, that's totally fine. As long as there's progress being made. And perhaps for 2013, um.
+
+68
+00:07:26.399 --> 00:07:33.059
+You and Pam, you know, the, the team that's focused on use cases can talk about.
+
+69
+00:07:33.059 --> 00:07:37.168
+The the current thinking of the use cases that we're going to cover.
+
+70
+00:07:37.168 --> 00:07:41.069
+I think that would be important for us to go through.
+
+71
+00:07:41.069 --> 00:07:45.689
+Yeah, and I have 1 more addition from Elliot I.
+
+72
+00:07:45.689 --> 00:07:52.769
+He was going to provide some content to share with Pam for the device use cases. Awesome.
+
+73
+00:07:52.769 --> 00:07:59.038
+I presume that would be the case cause at the last call. I, I recall we.
+
+74
+00:07:59.038 --> 00:08:04.019
+We had unanimous agreement that it should be covered.
+
+75
+00:08:04.019 --> 00:08:07.889
+Um, so I would expect that to be in the use case.
+
+76
+00:08:09.059 --> 00:08:13.468
+Thanks Chanel. Um, do you want to give Elliott a reminder.
+
+77
+00:08:13.468 --> 00:08:16.978
+So, it sounds to me that there won't be a.
+
+78
+00:08:16.978 --> 00:08:23.819
+Even a rough draft that would get submitted because I think the deadline for the 00 submissions is next week.
+
+79
+00:08:23.819 --> 00:08:32.578
+And that's just, you know, that's typical procedure for the for a week before actually, 2 weeks before.
+
+80
+00:08:32.578 --> 00:08:36.658
+The sessions they freeze the server typically, because they need to.
+
+81
+00:08:36.658 --> 00:08:40.048
+The shift towards the face to face meeting.
+
+82
+00:08:40.048 --> 00:08:49.318
+But then the, um, the portal gets opened up again, um, so that we can submit while we were at.
+
+83
+00:08:49.318 --> 00:08:53.938
+But my point here is is to ask the question.
+
+84
+00:08:53.938 --> 00:08:56.999
+Whether there be even a rough outline.
+
+85
+00:08:56.999 --> 00:09:02.278
+Whether you've used cases, do you know Danny?
+
+86
+00:09:02.278 --> 00:09:05.879
+I, I'm, I'm not.
+
+87
+00:09:05.879 --> 00:09:12.418
+Sure, I'd have to check with Pam. I know she, she's presented to us, but I, I don't know that it's.
+
+88
+00:09:12.418 --> 00:09:16.528
+In, uh, sort of, you know, like the, the.
+
+89
+00:09:16.528 --> 00:09:20.519
+Forum versus, you know, like 5 on a PowerPoint or word doc or anything like that. Okay.
+
+90
+00:09:20.519 --> 00:09:23.668
+Well, I mean, at this point, you know.
+
+91
+00:09:23.668 --> 00:09:28.198
+It, if it's not ready to be an RFC form.
+
+92
+00:09:28.198 --> 00:09:33.298
+Even just having a rough outline presented of and again right?
+
+93
+00:09:33.298 --> 00:09:36.839
+Not conforming to the RC if you're not ready, but at least.
+
+94
+00:09:36.839 --> 00:09:42.328
+Outlining the different use cases that we want to cover.
+
+95
+00:09:42.328 --> 00:09:45.418
+Just so we can have discussions.
+
+96
+00:09:45.418 --> 00:09:50.009
+Yeah, I can check with her and just get back on the on the mailing list or.
+
+97
+00:09:50.009 --> 00:09:53.099
+Great thanks.
+
+98
+00:09:53.099 --> 00:09:56.219
+Okay um, so that's.
+
+99
+00:09:56.219 --> 00:10:02.428
+Oh, it just seems like a good time to add this comment because.
+
+100
+00:10:02.428 --> 00:10:05.698
+I haven't written a draft in 2 or 3 years.
+
+101
+00:10:05.698 --> 00:10:09.719
+I recommend anybody who's going to write a draft.
+
+102
+00:10:09.719 --> 00:10:12.958
+Or hasn't yet submitted to, um.
+
+103
+00:10:12.958 --> 00:10:22.109
+Plan to attend the draft writing seminar that they will likely have over the weekend before. It's usually when it's held.
+
+104
+00:10:22.109 --> 00:10:26.788
+I found there were enough changes. It took me 2 days.
+
+105
+00:10:26.788 --> 00:10:30.688
+As an old XML draft writer to figure out.
+
+106
+00:10:30.688 --> 00:10:36.328
+All the changes that have occurred and to debug it all. It's a little bit.
+
+107
+00:10:36.328 --> 00:10:43.349
+Tedious it's gotten more powerful, but it's tedious. And I think, uh, I'm going to attend.
+
+108
+00:10:43.349 --> 00:10:46.408
+Um, just to get all of the tips and tricks.
+
+109
+00:10:46.408 --> 00:10:52.288
+Um, and that will save you a lot of time. So if you haven't already committed to publishing.
+
+110
+00:10:52.288 --> 00:11:01.288
+But you're going to I would, that would be a good session. It has been in the past that you just go. Oh, that's why it's this way, you know, and.
+
+111
+00:11:01.288 --> 00:11:13.168
+Um, that's a personal experience there. Yeah. Thanks for pointing that out Phil and the I need to add in the chat so I would be interested in seeing that.
+
+112
+00:11:13.168 --> 00:11:20.879
+Yeah, yeah, I also I had the privilege of having Elliott give me a slight tutorial on.
+
+113
+00:11:20.879 --> 00:11:34.078
+The the marked on files and using cram down. Yeah. And so part of my goals in the last week, or 2 is to try to get a boilerplate, just template going um, that may be share.
+
+114
+00:11:34.078 --> 00:11:38.068
+Um, I thought Martin Thompson.
+
+115
+00:11:38.068 --> 00:11:44.548
+So, Phil, I don't know if if you got it in the last tutorial, but, um.
+
+116
+00:11:44.548 --> 00:11:48.899
+There was some tooling that is made available.
+
+117
+00:11:48.899 --> 00:11:54.178
+And get hub that gives you basically.
+
+118
+00:11:54.178 --> 00:11:58.349
+The main file, if you will for how to take mark down.
+
+119
+00:11:58.349 --> 00:12:02.369
+All the way to, um, and it does also show you.
+
+120
+00:12:02.369 --> 00:12:08.188
+The steps for installing crammed down an XML to.
+
+121
+00:12:08.188 --> 00:12:20.219
+Yeah, I've, um, I tried that briefly. Um, and I found certain things are faster than certain things are much slower. So I reverted back to.
+
+122
+00:12:20.219 --> 00:12:23.788
+Ah, but to your point, um.
+
+123
+00:12:23.788 --> 00:12:29.818
+Under GitHub under I think it's the tools account.
+
+124
+00:12:29.818 --> 00:12:41.849
+There's a series of things like XML to RFC. There's a markdown converter. They run actually better. I found if you download them or clone them and then do a make file as you say.
+
+125
+00:12:41.849 --> 00:12:45.958
+Um, and certain things happens, like 1 of the things that, um.
+
+126
+00:12:45.958 --> 00:12:55.469
+I kept now supports instead of text based diagrams. You can now do diagrams you can do a web sequence diagram and have it look good.
+
+127
+00:12:55.469 --> 00:12:59.428
+Um, so there's a bunch of tools there as well.
+
+128
+00:12:59.428 --> 00:13:05.969
+I haven't gone to a recent session. That's my plan is to go to the the next session. So.
+
+129
+00:13:05.969 --> 00:13:09.839
+Um, but this is what I figured out over a couple of days and, um.
+
+130
+00:13:09.839 --> 00:13:17.519
+I found the tools and GitHub to be invaluable. So, and if you're going to go with Markdown yeah. Look to those tools.
+
+131
+00:13:17.519 --> 00:13:22.379
+And so forth, um, I remember.
+
+132
+00:13:22.379 --> 00:13:28.288
+Yeah, I, I was just going to say if I remember, or if any 1 of you, um.
+
+133
+00:13:28.288 --> 00:13:32.969
+See them, if you can post them to the slack channel, the general.
+
+134
+00:13:32.969 --> 00:13:37.769
+Skim slack That'll be useful for everybody to.
+
+135
+00:13:37.769 --> 00:13:43.109
+I dropped a link in in this chat, but in under the notes, but I'll put it in Slack as well.
+
+136
+00:13:43.109 --> 00:13:56.609
+Awesome. Thanks, Paul. I've got a folder of bookmarks with all the various bits and pieces. I've done the full journey of Mark down, or crammed down into XML into RFC a couple of months ago.
+
+137
+00:13:56.609 --> 00:14:01.739
+Re, producing that might be a little trickier than.
+
+138
+00:14:01.739 --> 00:14:09.808
+Well, and the tools do keep getting updated as well. Right? Every year some of the copyright stuff changes. Um.
+
+139
+00:14:09.808 --> 00:14:16.379
+Yeah, and just in general, like Ruby caught me by surprise. I think it was last year.
+
+140
+00:14:16.379 --> 00:14:20.609
+Last year yeah. Was an, it was just.
+
+141
+00:14:20.609 --> 00:14:24.269
+The general tools. All right.
+
+142
+00:14:24.269 --> 00:14:32.068
+I'll spin up a new channel in Slack for discussion of, um, writing documents, tools, best practices, et cetera.
+
+143
+00:14:32.068 --> 00:14:35.369
+Great. Sounds like a great channel. Thanks.
+
+144
+00:14:38.609 --> 00:14:42.269
+Okay, now that we did the little sidetrack.
+
+145
+00:14:42.269 --> 00:14:49.678
+Which was useful we do, we eventually need to get them to be in the template.
+
+146
+00:14:49.678 --> 00:14:52.918
+Performance. Okay so.
+
+147
+00:14:52.918 --> 00:15:04.168
+Let's move on to the schemas and the protocol RFCs and I expect them to be new drafts as well. It's not going to be Errata.
+
+148
+00:15:04.168 --> 00:15:08.908
+Um, Danny and jenelle again.
+
+149
+00:15:09.203 --> 00:15:11.394
+Updates well,
+
+150
+00:15:11.394 --> 00:15:11.693
+Danny,
+
+151
+00:15:11.693 --> 00:15:17.274
+and I were discussing new versus drafts and 1 of the revisiting the charter,
+
+152
+00:15:17.783 --> 00:15:23.063
+and 1 of the goals of the charter was actually to take the skim to to an Internet draft,
+
+153
+00:15:23.063 --> 00:15:24.474
+which it is an app today.
+
+154
+00:15:24.474 --> 00:15:38.274
+And so we were thinking of, maybe we do need to do a quick pass on the Arata and basically get it into shape so that we can all agree and say, yep, that looks like skim 2.0. we'll agree. That's the standard take it there.
+
+155
+00:15:38.274 --> 00:15:41.153
+Um, and then continue forward on the.
+
+156
+00:15:41.938 --> 00:15:46.589
+Beyond skim 2.0 work that we've discussed. Okay.
+
+157
+00:15:46.589 --> 00:15:52.828
+Does that sound? Does everybody agree to that in this space?
+
+158
+00:15:52.828 --> 00:16:00.028
+Can we take a vote? Well, we, we need to start that discussion. Um.
+
+159
+00:16:01.408 --> 00:16:09.418
+I was going to say justification isn't the right word if you can walk us through, um, jenelle for.
+
+160
+00:16:10.528 --> 00:16:16.139
+The journey that you're taking, right for the path that we'll end up going. I'm trying to.
+
+161
+00:16:16.139 --> 00:16:23.668
+To be more flexible on whatever that path is that you want to design for the group.
+
+162
+00:16:23.668 --> 00:16:29.698
+Um, would go through.
+
+163
+00:16:29.698 --> 00:16:34.708
+Are you talking janela just to clarify? Because it's.
+
+164
+00:16:34.708 --> 00:16:38.548
+Sounds like what we should do 1st, is get the list of.
+
+165
+00:16:38.548 --> 00:16:45.119
+Let's call the bugs for now and determine whether they're truly irada or whether they're enhancements.
+
+166
+00:16:45.119 --> 00:16:50.158
+Yes, then decide. Yeah, and and 1 of the things that.
+
+167
+00:16:50.158 --> 00:16:56.308
+On the side, what's the leader in the agenda to GitHub? Repo I set up 1 that.
+
+168
+00:16:56.308 --> 00:17:01.259
+Looks kind of like the other working groups, uh, for.
+
+169
+00:17:01.259 --> 00:17:06.209
+I don't know if it's exactly right or not. Um.
+
+170
+00:17:06.209 --> 00:17:17.098
+And and Danny, and I were just discussing using GitHub to track all those issues, and then carry them forward into, you know, the different buckets that they should be in.
+
+171
+00:17:17.098 --> 00:17:31.919
+And, uh, we thought we could could group collaborate that way? Um, if we all agree that that's the appropriate place to, to track all the, the things.
+
+172
+00:17:31.919 --> 00:17:36.538
+Yeah, that would work for me. Yeah, so I can put a bunch of them.
+
+173
+00:17:36.538 --> 00:17:46.348
+We did agree. I think that our November session that we would track the issues through the GitHub.
+
+174
+00:17:46.348 --> 00:17:55.048
+Um, and so once we get to the housekeeping, we can talk about how we we shift.
+
+175
+00:17:55.048 --> 00:17:58.469
+Um, from.
+
+176
+00:17:58.469 --> 00:18:07.048
+A work in progress to an adopt a document, but both of them being used not used both of them using GitHub.
+
+177
+00:18:07.048 --> 00:18:11.398
+And again, using the issues to track.
+
+178
+00:18:11.398 --> 00:18:15.509
+Yeah, yeah, we were thinking of maybe having a folder.
+
+179
+00:18:15.509 --> 00:18:30.239
+Or directory in the GitHub that was unsubmitted drafts and another 1 for submitted drafts. Perhaps maybe you could add some tooling in there that could just make files, submit it for you or something like that, too.
+
+180
+00:18:30.239 --> 00:18:33.239
+If we can.
+
+181
+00:18:33.239 --> 00:18:36.989
+Automation of this going. Okay.
+
+182
+00:18:36.989 --> 00:18:42.179
+So, it's the notion of renaming and.
+
+183
+00:18:42.179 --> 00:18:48.328
+The repo from the unsubmitted or the unapproved.
+
+184
+00:18:48.328 --> 00:18:53.159
+Or yet, to be approved, whatever we want to call the folder to adopted.
+
+185
+00:18:53.159 --> 00:18:59.009
+Right. So we'll have a repo that talks about the adopted draft not talks about, but.
+
+186
+00:18:59.009 --> 00:19:03.088
+Um, has the view of all of the adopted draft.
+
+187
+00:19:03.088 --> 00:19:06.298
+In there.
+
+188
+00:19:06.298 --> 00:19:12.419
+And typically, in the other working groups that I chair, we've.
+
+189
+00:19:13.528 --> 00:19:24.088
+We've had 2 separate get hubs and then what they do is they just, they do have to rename the drafts because before they get adopted, it's typically.
+
+190
+00:19:24.088 --> 00:19:32.638
+Draft Dash, somebody's last name dash skin Dash, whatever the.
+
+191
+00:19:32.638 --> 00:19:36.269
+Um, there's a naming convention is what I'm trying to say.
+
+192
+00:19:36.269 --> 00:19:43.138
+Gotcha and then once it's adopted, then it becomes a draft dash dash skin.
+
+193
+00:19:43.138 --> 00:19:46.409
+And that's.
+
+194
+00:19:46.409 --> 00:19:52.798
+Effectively the convention that gets you, so that people understand what's been adopted and what's not.
+
+195
+00:19:52.798 --> 00:19:56.548
+Just by looking at the file name.
+
+196
+00:19:56.548 --> 00:20:00.568
+Sounds good. Well, work through that. I'm sure. Yes.
+
+197
+00:20:00.568 --> 00:20:03.628
+Okay, so, um.
+
+198
+00:20:03.628 --> 00:20:08.489
+Is the same process that being followed for both the schema and the protocol.
+
+199
+00:20:10.618 --> 00:20:13.709
+I, I was, that's it. That's our intent.
+
+200
+00:20:13.709 --> 00:20:16.888
+Okay, and, uh.
+
+201
+00:20:16.888 --> 00:20:20.278
+So, at our last intro meeting, uh, I.
+
+202
+00:20:20.278 --> 00:20:29.933
+Put the idea out there of kind of, you know, do we stick down the path of 2.0 and I, I sort of made it like, uh, you can only choose 1, which maybe that's not actually how we should have approached it.
+
+203
+00:20:29.933 --> 00:20:42.503
+Um, uh, do we push to move skim 2.0 to Internet draft or do we just sort of, you know, pivot turn our focus towards, uh, like the next iteration of scale informally? Call it skim 3.0 um.
+
+204
+00:20:46.709 --> 00:20:53.423
+And I think we have, we had a general consensus in the last interim for support of, like, moving the standard forward.
+
+205
+00:20:54.054 --> 00:20:54.772
+Uh,
+
+206
+00:20:54.983 --> 00:20:55.794
+so I,
+
+207
+00:20:55.794 --> 00:20:57.503
+I had a chance to consult with,
+
+208
+00:20:57.564 --> 00:20:58.223
+uh,
+
+209
+00:20:58.673 --> 00:20:58.913
+uh,
+
+210
+00:20:58.913 --> 00:20:59.933
+1 of my peers at Microsoft,
+
+211
+00:21:00.054 --> 00:21:00.713
+Mark wall,
+
+212
+00:21:00.713 --> 00:21:06.683
+who've got some experience in the standards world and his feedback on the idea of,
+
+213
+00:21:06.713 --> 00:21:07.044
+uh,
+
+214
+00:21:07.074 --> 00:21:07.284
+like,
+
+215
+00:21:07.284 --> 00:21:09.054
+sort of trying to go for skim 3.0 was,
+
+216
+00:21:09.054 --> 00:21:09.354
+uh,
+
+217
+00:21:09.683 --> 00:21:10.223
+essentially,
+
+218
+00:21:10.253 --> 00:21:12.534
+if we try to write 1,
+
+219
+00:21:12.534 --> 00:21:13.794
+big epic it's,
+
+220
+00:21:13.884 --> 00:21:14.364
+uh,
+
+221
+00:21:14.394 --> 00:21:15.023
+you know,
+
+222
+00:21:15.054 --> 00:21:18.114
+and include everything that everybody wants to do a standard,
+
+223
+00:21:18.114 --> 00:21:18.173
+uh,
+
+224
+00:21:18.173 --> 00:21:22.493
+moving it forward and getting progress could be a lot harder versus sort of.
+
+225
+00:21:23.669 --> 00:21:29.338
+Put like stopping at 2.0 and just extending it, uh, further with, uh.
+
+226
+00:21:29.338 --> 00:21:34.769
+A, a long list of extensions, and I'm not experienced enough. Like, I.
+
+227
+00:21:34.769 --> 00:21:43.439
+I I want this to sort of come up for a discussion. I don't know if this is the right channel or if we actually dedicate some time for it in the, the more supplementary to talk about it.
+
+228
+00:21:44.848 --> 00:21:49.648
+We probably should allocate some time at the preliminary.
+
+229
+00:21:50.939 --> 00:21:59.038
+To discuss yeah, like, I, I think.
+
+230
+00:21:59.038 --> 00:22:02.159
+Um, given the milestones that we.
+
+231
+00:22:02.159 --> 00:22:07.019
+Have currently and the, and the charter, it makes sense that.
+
+232
+00:22:07.019 --> 00:22:11.068
+For now, at least we start by.
+
+233
+00:22:11.068 --> 00:22:15.959
+Trying to move 2.0 from proposed draft to Internet draft. Uh.
+
+234
+00:22:15.959 --> 00:22:22.648
+And, you know, whatever that entails, you know, processing of rata, any small clarification changes, et cetera uh, that.
+
+235
+00:22:22.648 --> 00:22:35.578
+Even if we do later, decide to target, like, the, the big new epic of 3.0, uh, that probably serves as a good base of, uh, you know, processing through all of the, the small problems with 2.0 cause we do want to.
+
+236
+00:22:35.578 --> 00:22:40.919
+You know, whatever we build next, whether it's, you know, 2000 extensions, it's 2.0 are.
+
+237
+00:22:40.919 --> 00:22:48.179
+3.0, we probably want to be backwards compatible as much as possible for, you know, an easier like, upgrade path of implementation.
+
+238
+00:22:50.669 --> 00:22:56.699
+That is absolutely true. The interoperability and backward compatibility is something. Yeah.
+
+239
+00:22:58.138 --> 00:23:01.709
+We didn't explicitly write that in the charter, but, um.
+
+240
+00:23:01.709 --> 00:23:06.868
+Yeah, yeah, like, I'm I I feel like I'm, I'm mostly.
+
+241
+00:23:06.868 --> 00:23:15.419
+Personally, indifferent to, you know, uh, 2000 extensions versus right. Uh, entirely new, you know, 3.0 spec, um.
+
+242
+00:23:15.419 --> 00:23:22.348
+But I, I think for now, at least, you know, the more conservative course of action, while we figure that out is probably to.
+
+243
+00:23:22.348 --> 00:23:26.338
+Move 2.0 forward to that final stage and then we.
+
+244
+00:23:26.338 --> 00:23:30.328
+I can just pull on that if we need to the current.
+
+245
+00:23:30.328 --> 00:23:36.388
+Mechanism so everybody knows is is can be done in the path.
+
+246
+00:23:36.388 --> 00:23:41.429
+So you're supposed to be able to go slash v2 for skim 2.
+
+247
+00:23:41.429 --> 00:23:44.699
+Cause we went through this with skim 1 versus skim 2.
+
+248
+00:23:44.699 --> 00:23:52.588
+So, if it's V2 dot 1, if there's an incompatibilities, you would introduce a new path. And then a server would either default.
+
+249
+00:23:52.588 --> 00:23:55.858
+To the latest, and if somebody just wants.
+
+250
+00:23:55.858 --> 00:24:01.229
+Um, to still talk to him to, he would say, slash slash.
+
+251
+00:24:01.229 --> 00:24:06.088
+Users and so on um, so that's the current mechanism.
+
+252
+00:24:06.088 --> 00:24:12.989
+It's probably not well implemented.
+
+253
+00:24:15.328 --> 00:24:19.348
+I was sorry somewhere. Well.
+
+254
+00:24:19.348 --> 00:24:22.618
+So, fill the question is well implemented.
+
+255
+00:24:22.618 --> 00:24:32.878
+Because it's lacking specificity in any documents, or I think, because we haven't really had.
+
+256
+00:24:32.878 --> 00:24:39.628
+A major change, like, skin 1 was was dramatically different, had a lot of interrupt problems.
+
+257
+00:24:39.628 --> 00:24:42.719
+Tended to be either 2 or 1.
+
+258
+00:24:42.719 --> 00:24:51.598
+Now, we're talking about a scenario where we could have coexistence for a period of time. Whereas 1, and 2 really didn't coexist.
+
+259
+00:24:51.598 --> 00:25:00.449
+Got it, the pm's in the room may be able to comment, but I, I guess not on my experience. I think you're right on the.
+
+260
+00:25:00.449 --> 00:25:04.588
+2 to 3 that people who adopt it to me.
+
+261
+00:25:04.588 --> 00:25:08.459
+Stay there quite some time before they go to 3, depending on.
+
+262
+00:25:08.459 --> 00:25:11.669
+What 3 looks like so.
+
+263
+00:25:11.669 --> 00:25:17.638
+Or maybe that's because it's hard to get rid of a standard once it's established. Right?
+
+264
+00:25:17.638 --> 00:25:25.888
+Well, it, is it a big shift from a 2 to a 3 or is it like a 2 dot 1?
+
+265
+00:25:25.888 --> 00:25:29.459
+I guess at that point, it doesn't matter. It's a different version.
+
+266
+00:25:29.459 --> 00:25:33.628
+Maybe we follow taking shape.
+
+267
+00:25:33.628 --> 00:25:40.618
+Let me give you an example, which I'm not sure isn't a router. Maybe you could comment and see in the patch command.
+
+268
+00:25:40.618 --> 00:25:44.939
+We had ad replace and removed for an attribute.
+
+269
+00:25:44.939 --> 00:25:55.618
+And when you have a multi, when you have an attribute, and somebody says what, if I just said replace and if the value doesn't exist, it'll just add the value.
+
+270
+00:25:55.618 --> 00:26:00.118
+Speck is unclear on that and people are wondering, should I throw an error.
+
+271
+00:26:00.118 --> 00:26:03.659
+Or should I just be cooperative and add the value.
+
+272
+00:26:03.659 --> 00:26:10.229
+And that's the question. I get a lot of times and it's unspecified in the spec.
+
+273
+00:26:10.229 --> 00:26:16.288
+Right. So if you add clarification that says, yeah, just go ahead and add the value.
+
+274
+00:26:16.288 --> 00:26:26.999
+For some people, you're making a functional change, but for other people, you're reaffirming what they already decided to do, which is to be generally cooperative with the protocol.
+
+275
+00:26:26.999 --> 00:26:32.848
+And that's the kind of issue where we have a few corner cases like that, where.
+
+276
+00:26:32.848 --> 00:26:40.588
+Some people might have been stripped, particularly if you came out of the X500 community where everything was break if it's not exactly on.
+
+277
+00:26:40.588 --> 00:26:45.568
+And then there's the rest community, which says, well, if you understand it, let it go ahead.
+
+278
+00:26:45.568 --> 00:26:56.128
+And that's how I sort of answered that question. If you understand it, let it go ahead and some people that drives him nuts. So yeah. Okay.
+
+279
+00:26:56.128 --> 00:26:59.368
+So, is that I'm irada or or is it a.
+
+280
+00:27:00.568 --> 00:27:04.318
+But it's a backwards compatible. I would argue for the most part.
+
+281
+00:27:04.318 --> 00:27:09.358
+Right, I mean, I, I would say screw it more as an Errata in.
+
+282
+00:27:09.358 --> 00:27:14.128
+In that we're making clarifications on the intent, but.
+
+283
+00:27:15.239 --> 00:27:28.318
+Yeah, well or do we follow in the steps of Aaron who Ha, they put a best practice doc together for it should be at the best best, best practice doc together for skim.
+
+284
+00:27:28.318 --> 00:27:40.709
+But that fit in that doc, that that's a great example, because 1 of the ones that people keep saying, I need cursor based paging is because there's a limit and skim on how many results you can get.
+
+285
+00:27:40.709 --> 00:27:44.278
+But if you're in the spec, it's optional.
+
+286
+00:27:44.278 --> 00:27:47.878
+It's not also for the client, right?
+
+287
+00:27:47.878 --> 00:27:56.098
+For the server well, that's something that we can discuss as a group and get consensus on. I mean.
+
+288
+00:27:56.098 --> 00:28:00.778
+I'm here to help guide the group as is Aaron, right?
+
+289
+00:28:00.778 --> 00:28:03.898
+You're kind of reminding me of.
+
+290
+00:28:03.898 --> 00:28:07.528
+The scope and the bounds that we need to put on.
+
+291
+00:28:07.528 --> 00:28:11.909
+What's on on the bounds of.
+
+292
+00:28:11.909 --> 00:28:15.929
+The functioning capabilities of the protocols and the schema.
+
+293
+00:28:15.929 --> 00:28:22.558
+Versus the common practice to get that level of interoperability.
+
+294
+00:28:22.558 --> 00:28:28.378
+So, we had some of these discussions in, for example.
+
+295
+00:28:28.378 --> 00:28:32.009
+In the framework.
+
+296
+00:28:32.009 --> 00:28:37.499
+As well, as in the radius for doing authentications and.
+
+297
+00:28:37.499 --> 00:28:44.818
+Specifically for radius, the boundary was more of anything to do with.
+
+298
+00:28:44.818 --> 00:28:51.509
+Beyond the authentication decision, which gets into the policy room.
+
+299
+00:28:51.509 --> 00:28:55.588
+Was outside the scope and so I can tell you in that group.
+
+300
+00:28:55.588 --> 00:29:00.659
+We didn't even have a common practice for topics like that cause they said it was out of scope.
+
+301
+00:29:08.338 --> 00:29:11.939
+But what you described Phil, to me, is.
+
+302
+00:29:11.939 --> 00:29:16.769
+You know, it's sort of in the scope.
+
+303
+00:29:16.769 --> 00:29:21.598
+From a state machine perspective, which is why I would construct Morris and Nevada.
+
+304
+00:29:21.598 --> 00:29:25.979
+Aaron, I don't know if you have a voice since your Co chair as well.
+
+305
+00:29:25.979 --> 00:29:37.588
+Yeah, it's a tough 1. do you have a sense of how of what the current state of deployments do? Like, is there a way to survey the deployments and see how many fall on which end of that?
+
+306
+00:29:37.588 --> 00:29:44.189
+Decision was made, I don't know, to be honest 1 of the things.
+
+307
+00:29:44.189 --> 00:29:48.298
+Icf doesn't do that people ask about as a certification suite.
+
+308
+00:29:48.298 --> 00:29:53.939
+Just from the experience of open ID, there are what the specs there are always.
+
+309
+00:29:53.939 --> 00:30:00.989
+I'm going to call them behaviors. They're always what the spec says, and then there are common patterns and behaviors.
+
+310
+00:30:00.989 --> 00:30:06.118
+And the great thing that test suite does is it captures the behaviors.
+
+311
+00:30:06.118 --> 00:30:11.788
+So you can say, well, you're compliant, but you are doing something weird.
+
+312
+00:30:11.788 --> 00:30:15.058
+And that tends to get exposed in compliance.
+
+313
+00:30:15.058 --> 00:30:18.719
+Uh, are you testing because the test suites.
+
+314
+00:30:18.719 --> 00:30:23.278
+Would tend to sort of in this case, uh, that I said that.
+
+315
+00:30:23.278 --> 00:30:33.239
+The last week that they, they would sort of say, oh, patch with, uh, replace on a value that doesn't exist works. Okay. And the test suite accepts that and then.
+
+316
+00:30:33.239 --> 00:30:36.989
+It sort of becomes an implied back.
+
+317
+00:30:36.989 --> 00:30:43.078
+The other, you know, what what's been interesting is and both the TLS.
+
+318
+00:30:43.078 --> 00:30:46.858
+And the mask working group.
+
+319
+00:30:46.858 --> 00:30:53.368
+Not mass sorry quick. They had been holding and.
+
+320
+00:30:53.368 --> 00:30:56.788
+I believe that quick stone.
+
+321
+00:30:56.788 --> 00:31:00.538
+These interrupt tests.
+
+322
+00:31:00.538 --> 00:31:07.499
+More to ensure the maturity and the interoperability of implementations.
+
+323
+00:31:07.499 --> 00:31:10.828
+Based on what's been authored in the specs.
+
+324
+00:31:12.689 --> 00:31:18.239
+So, if this group is interested in doing that, right? Um.
+
+325
+00:31:19.739 --> 00:31:23.729
+We can hold sessions to that effect. Um.
+
+326
+00:31:25.048 --> 00:31:31.618
+But, again, it's all driven by, you know, the energy and and the momentum.
+
+327
+00:31:31.618 --> 00:31:40.648
+That this group wants to follow, but what you're saying does make sense to Phil.
+
+328
+00:31:40.648 --> 00:31:46.288
+I'm a big fan of of test suites as well. Um, the other thing that helps.
+
+329
+00:31:46.288 --> 00:31:53.128
+Is it forces the spec, it kind of pieces out those ambiguities in the spec because once you're creating a test suite.
+
+330
+00:31:53.128 --> 00:31:58.348
+You realise that you end up, sort of, with these little holes that you then.
+
+331
+00:31:58.348 --> 00:32:01.919
+Go back and plug, but the, um.
+
+332
+00:32:01.919 --> 00:32:14.068
+The other the other sort of official channel is the Hackathon so the, the goal of the Hackathon so, for those who are not familiar.
+
+333
+00:32:14.068 --> 00:32:20.608
+While we were doing it, virtually it, it was extended for the whole week before.
+
+334
+00:32:20.608 --> 00:32:28.378
+The, the sessions now with the hybrid, I believe they start Friday.
+
+335
+00:32:28.378 --> 00:32:32.759
+I'm not arriving till Saturday, but anyway.
+
+336
+00:32:32.759 --> 00:32:46.048
+The skin working group can sign up to have a table reserved and that's where we can do, you know, plug fast interrupt testing.
+
+337
+00:32:46.048 --> 00:32:55.798
+Call it what you like I can tell you in the deep working group we started by just having a table on having the discussion of.
+
+338
+00:32:55.798 --> 00:32:59.308
+The realm of interoperability.
+
+339
+00:32:59.308 --> 00:33:04.979
+Because in the 1st, couple of sessions, we didn't have implementation.
+
+340
+00:33:04.979 --> 00:33:09.298
+But now we do, and and they do.
+
+341
+00:33:09.298 --> 00:33:14.189
+There are 3, 3 vendors.
+
+342
+00:33:14.189 --> 00:33:19.499
+That continue and again, the purpose is to ensure.
+
+343
+00:33:19.499 --> 00:33:30.479
+That the, the drafts are both implementable that we can reach some level of interoperability.
+
+344
+00:33:33.778 --> 00:33:38.699
+So, I, I would absolutely encourage this group.
+
+345
+00:33:38.699 --> 00:33:42.118
+To at least participate in the hackathons.
+
+346
+00:33:42.118 --> 00:33:50.999
+That's not as demanding sort of in that they they meet, but there is a lot of prep work.
+
+347
+00:33:50.999 --> 00:33:55.169
+Because you do have to do the coding, um.
+
+348
+00:33:55.169 --> 00:33:59.939
+But they do meet the weekend before begins.
+
+349
+00:33:59.939 --> 00:34:05.009
+The other option is to follow, I don't think it's.
+
+350
+00:34:05.009 --> 00:34:12.358
+Officially through the, but I'm being TLS so widespread.
+
+351
+00:34:12.358 --> 00:34:16.588
+That both the TLS working group and a quick working group have, um.
+
+352
+00:34:16.588 --> 00:34:19.708
+Set up their own, you know.
+
+353
+00:34:21.358 --> 00:34:25.469
+Mechanisms for doing interoperability.
+
+354
+00:34:29.364 --> 00:34:42.474
+Might be worth spending more time on the test suites because, um, I found a couple of test suite and there were a lot of issues with them but, uh, it's worth spending time saying what.
+
+355
+00:34:42.809 --> 00:34:50.878
+A test we should test. Okay.
+
+356
+00:34:53.699 --> 00:34:57.809
+My understanding Nancy, maybe you can clarify is.
+
+357
+00:34:57.809 --> 00:35:03.568
+The typically doesn't do test suites. Usually it's an independent work that picks it up. Like.
+
+358
+00:35:03.568 --> 00:35:06.838
+Open ID for correct.
+
+359
+00:35:06.838 --> 00:35:12.088
+Correct there was 2000, which was somebody else.
+
+360
+00:35:13.318 --> 00:35:18.208
+I, I would say we, it's not in the scope of the.
+
+361
+00:35:18.208 --> 00:35:24.989
+That is correct yeah, but, you know, this helped with interoperability testing.
+
+362
+00:35:26.128 --> 00:35:36.958
+Yep, if if you work with the test suite, and it's fine with the test suite, then interoperability gives you a higher confidence of of the things working together.
+
+363
+00:35:40.018 --> 00:35:54.148
+Yeah, okay. I'm going to need to cut off this discussion since we have a couple of other agenda items, but these are all good topics. The testing is absolutely not in the charter.
+
+364
+00:35:54.148 --> 00:35:58.139
+Or in our groups charter.
+
+365
+00:35:58.139 --> 00:36:02.789
+Um, but it is an activity that can be discussed.
+
+366
+00:36:02.789 --> 00:36:07.978
+You know, off as we look to ensure that what we're.
+
+367
+00:36:07.978 --> 00:36:11.219
+I look at it as a, um.
+
+368
+00:36:11.219 --> 00:36:17.699
+As a tool to ensure the validity of what.
+
+369
+00:36:17.699 --> 00:36:30.659
+We're drafting. Okay. Um, let's keep moving on Danny. If you wouldn't mind I just want to make sure we have enough time.
+
+370
+00:36:30.659 --> 00:36:38.429
+To cover the housekeeping, because I want to make sure jenelle has some time to talk about the GitHub.
+
+371
+00:36:38.429 --> 00:36:42.239
+That she helped set up, um.
+
+372
+00:36:42.239 --> 00:36:45.568
+So this shouldn't take long. Yeah.
+
+373
+00:36:45.568 --> 00:36:59.398
+Just so just to close the loop on the schema and protocol there hasn't really been any pen to paper. At this point. It's all been just thinking about, like, strategy and of, like, what actions to take before taking them uh, I'm not too worried.
+
+374
+00:36:59.398 --> 00:37:13.318
+About how long it'll take to get us to get all the Arata and clarifications process is I think it's a much smaller body of work than, uh, say the work going on with use cases where it's, you know, pretty much a full rewrite.
+
+375
+00:37:13.318 --> 00:37:25.498
+Um, so moving on to the photos, uh, topic, uh, so, something that, uh, I, I've seen as, uh, in, like, the fast provisioning space.
+
+376
+00:37:25.498 --> 00:37:30.148
+That, um, is sort of highly desired, but also.
+
+377
+00:37:30.148 --> 00:37:45.059
+On the border of not being implementable is, uh, uh, skim client sending, uh, especially over the Internet, uh, the, uh, for, uh, profile picture for a user object.
+
+378
+00:37:46.224 --> 00:37:56.244
+The skin standard today says just include a URL that points to where the picture is and the, uh, this game server can then go back and read the picture from that.
+
+379
+00:37:56.753 --> 00:38:07.643
+And there's no discussion in, uh, the spec about how to handle, uh, authorization or, uh, authentication against that URL to secure the picture. So that other parties cannot.
+
+380
+00:38:07.918 --> 00:38:15.239
+Go and, you know, traverse a list of all pictures in a directory, for instance. Uh, and so that's a topic that I would like to.
+
+381
+00:38:15.239 --> 00:38:19.260
+I, you know, at some point and figure out how to solve, uh, I.
+
+382
+00:38:19.260 --> 00:38:33.090
+It like, I know that it's a problem I need smarter brains in mind so it's just sort of a like a call for interest. If anybody has interest in helping to solve that problem and write a draft on it. Um.
+
+383
+00:38:33.090 --> 00:38:38.579
+Please so, are you, are you talking about a case where.
+
+384
+00:38:38.579 --> 00:38:41.969
+You post the URL for the picture.
+
+385
+00:38:41.969 --> 00:38:46.079
+And then the skim server behind the scene loads it or something or.
+
+386
+00:38:46.079 --> 00:38:57.690
+Because normally, the original spec was just that it's just a data field that you served back and its authenticity is up to whoever administrative in the 1st place before it goes in. So, the skim server is just.
+
+387
+00:38:57.690 --> 00:39:06.150
+A data store in that regard, but solving the problem about whether it's a valid image and all the other stuff was up to.
+
+388
+00:39:06.150 --> 00:39:09.420
+The client that set it where the client that received it.
+
+389
+00:39:09.420 --> 00:39:13.260
+1 might be a web that receives it from the directory.
+
+390
+00:39:13.260 --> 00:39:17.760
+Um, the other 1 was an administrative that said it in the 1st place.
+
+391
+00:39:17.760 --> 00:39:21.150
+So, it sounds like within the protocol standpoint.
+
+392
+00:39:21.150 --> 00:39:29.519
+How does it say something within the CIA triad? What David is talking about is the C not so much the I is that right? Danny.
+
+393
+00:39:29.519 --> 00:39:37.469
+Uh, I don't know what CIA is. Oh, confidentiality integrity and, uh, authenticity. So, uh, yeah, I'm confidentiality.
+
+394
+00:39:37.469 --> 00:39:41.730
+Right. Okay. Uh, and I would say the speck is agnostic.
+
+395
+00:39:41.730 --> 00:39:52.530
+For those issues right now. Well, I guess what I'm trying to understand is whether the question is that the field should have confidentiality, but it doesn't today.
+
+396
+00:39:53.670 --> 00:39:58.349
+So, there's, there's 2 things that we need to ensure that, um.
+
+397
+00:39:58.349 --> 00:40:04.110
+Were clean on as we update the protocol and the schema is that we are.
+
+398
+00:40:04.110 --> 00:40:07.289
+We are absolutely providing.
+
+399
+00:40:07.289 --> 00:40:10.889
+The security mechanisms as well as the privacy.
+
+400
+00:40:10.889 --> 00:40:15.630
+Um, of the information that gets conveyed there.
+
+401
+00:40:15.630 --> 00:40:21.269
+So, um, I'm not sure that all of it is in scope. Danny.
+
+402
+00:40:21.269 --> 00:40:24.360
+So, I'm still trying to understand the full.
+
+403
+00:40:24.360 --> 00:40:27.599
+Extent of what you were describing.
+
+404
+00:40:27.599 --> 00:40:33.119
+It's what you're talking about, their access control that describes.
+
+405
+00:40:33.119 --> 00:40:36.809
+What records you can see and what fields you can see. Okay.
+
+406
+00:40:37.860 --> 00:40:41.070
+Cause that's not in the spec, either. That's another.
+
+407
+00:40:41.070 --> 00:40:44.429
+I can provide a proposal that.
+
+408
+00:40:44.429 --> 00:40:54.449
+But I, I don't see, you need to have that in the spec, in order to encourage broad interoperability. It's not in the Eld app. Spec, for example.
+
+409
+00:40:54.449 --> 00:40:57.900
+And, yeah, we ran into brick wall, converting.
+
+410
+00:40:57.900 --> 00:41:03.420
+And now that from everybody's proprietary access controls to a standard 1.
+
+411
+00:41:03.420 --> 00:41:07.769
+It's the need for a standard wasn't clear.
+
+412
+00:41:07.769 --> 00:41:10.800
+There might be here, um.
+
+413
+00:41:10.800 --> 00:41:19.320
+But it's a big it's a big thing. Yeah. Yeah. I think part of the thing is that it's.
+
+414
+00:41:19.320 --> 00:41:22.619
+This cross domain.
+
+415
+00:41:22.619 --> 00:41:34.889
+Aspect of skim and crossing boundaries, you know, within an context and you've got your server in your local data stores. That's 1 thing but now we're trying to share this data between 2 different.
+
+416
+00:41:34.889 --> 00:41:38.519
+You know, and also comment.
+
+417
+00:41:38.519 --> 00:41:43.409
+That the policy world is changing in a couple of dramatic ways.
+
+418
+00:41:43.409 --> 00:41:49.500
+Well, outside the, but also how people are handling it so.
+
+419
+00:41:49.500 --> 00:41:52.920
+I'm working on 2 specs.
+
+420
+00:41:52.920 --> 00:41:58.170
+Uh, 1 in the cloud native thing called open policy.
+
+421
+00:41:58.170 --> 00:42:01.440
+Which involves, um.
+
+422
+00:42:01.440 --> 00:42:05.610
+How you integrate interconnect with policy systems?
+
+423
+00:42:05.610 --> 00:42:13.199
+So, it's an open policy agent and that's that's more about code. And and how you build things.
+
+424
+00:42:13.199 --> 00:42:17.579
+And then there's another 1, that's more formal called identity query language.
+
+425
+00:42:17.579 --> 00:42:21.599
+That is coming out about generalizing.
+
+426
+00:42:21.599 --> 00:42:25.079
+Policy in the cloud around the identity.
+
+427
+00:42:25.079 --> 00:42:30.510
+And there's interplay possibilities to scale with skim with both.
+
+428
+00:42:30.510 --> 00:42:36.570
+But they're taking a vastly different tack than we've all done before.
+
+429
+00:42:36.570 --> 00:42:44.159
+So, I'm not sure what I'm trying to say here is there's a lot happening. I'm not sure now it's the right time for the skim work group to pick it up.
+
+430
+00:42:44.159 --> 00:42:50.250
+I agree I think there's a lot happening in that area and, uh, we could get behind.
+
+431
+00:42:50.250 --> 00:42:53.610
+If we tried to do it just for skin.
+
+432
+00:42:56.635 --> 00:43:10.045
+Okay, so I just want to make sure as much for the notes as my own edification. I'm understanding Danny's request, which which is if I'm a skin client and saying, all right go create these users and oh, by the way here are some photos for these users today.
+
+433
+00:43:10.284 --> 00:43:24.594
+I have to pass a URL that is world readable. Right? It has to be a URL that this kind of server can go then fetch those pictures from. And Danny's point is well, that's bad because anyone could discover those URLs and then go fetch all the photos for every employee in my organization.
+
+434
+00:43:25.650 --> 00:43:28.769
+The skin servers shouldn't be catching.
+
+435
+00:43:28.769 --> 00:43:34.409
+Photos that's not the intent. We don't say that we do that. Y, you.
+
+436
+00:43:34.409 --> 00:43:37.949
+The skim server just serves up the URL that was given.
+
+437
+00:43:37.949 --> 00:43:45.420
+I see and then if there's a concept, the file that controls access to the photo, that's the way I've interpreted it.
+
+438
+00:43:45.420 --> 00:43:49.559
+Well, but the question does, does the skin server.
+
+439
+00:43:49.559 --> 00:43:54.449
+No, so this gets to the confidentiality, right?
+
+440
+00:43:54.449 --> 00:44:01.440
+Does the skim server is that field in the here? Basically.
+
+441
+00:44:01.914 --> 00:44:07.914
+Well, is any is any information diverged within the string text of the URL?
+
+442
+00:44:07.974 --> 00:44:18.684
+If the answer to that is no, then it's up to the server that's serving the photo to enforce authorization and actually see the content of the URL.
+
+443
+00:44:18.989 --> 00:44:24.420
+That's correct unless you serve unless you the best explicitly store, the photo.
+
+444
+00:44:24.420 --> 00:44:27.539
+Through the protocol directly as a binary.
+
+445
+00:44:27.539 --> 00:44:31.469
+You're just storing a URL in retrieving a URL.
+
+446
+00:44:31.469 --> 00:44:38.039
+The servers should not be fetching it's not part of the protocol for the server to do something in the background. That would be.
+
+447
+00:44:38.039 --> 00:44:42.150
+Outside the spec, it can do that, but the spec.
+
+448
+00:44:42.150 --> 00:44:49.230
+It's just store and retrieve 1 of all time.
+
+449
+00:44:49.230 --> 00:44:59.250
+Because I still want to know to cover the housekeeping. I think it does matter. So, Danny, we can.
+
+450
+00:44:59.250 --> 00:45:12.329
+Have you spent some time maybe? Well, I got to look at the agenda which I want to spend more time on too. I think that's a great discussion though. I don't want to interrupt it. Well.
+
+451
+00:45:12.329 --> 00:45:17.400
+Yeah, we only have 10 minutes left, right?
+
+452
+00:45:17.514 --> 00:45:28.434
+Okay um, so sorry, I do have all the time keeper here. We will pick that hot topic. So so, Danny, it does sound like it's a topic that we should continue.
+
+453
+00:45:29.545 --> 00:45:34.074
+I encourage you to bring it up in the slack channel.
+
+454
+00:45:34.320 --> 00:45:37.530
+And then mail group yeah, I'll do that.
+
+455
+00:45:37.530 --> 00:45:46.110
+And then if we have time, and if you want to continue the discussion in the planaria and.
+
+456
+00:45:46.110 --> 00:45:51.300
+113, let me know, and I can add it to the agenda.
+
+457
+00:45:52.739 --> 00:45:57.449
+Okay, so now.
+
+458
+00:45:57.864 --> 00:46:10.974
+Right. Um, I've created yet another skim GitHub. Repo. I know that there was 1 previously. Um, and I'm just seeking agreement to adopt it and use it.
+
+459
+00:46:11.005 --> 00:46:13.375
+Not just have it be this submitted.
+
+460
+00:46:13.679 --> 00:46:18.719
+Accepted adopted drafts, but be a working place that we can all.
+
+461
+00:46:18.719 --> 00:46:27.210
+Work with, I can link it up maybe to the mailing list so that it can update the mailing list when people check things in um.
+
+462
+00:46:27.210 --> 00:46:30.780
+And I've shared it with.
+
+463
+00:46:30.780 --> 00:46:41.519
+Nancy, Aaron, Danny and Pam, I can, I can share it with others. Is is that okay okay. Thing for us to do? Nancy?
+
+464
+00:46:41.519 --> 00:46:47.940
+Well, I think so. I so Aaron and I discussed it and.
+
+465
+00:46:47.940 --> 00:46:52.829
+As long as we can have within the skin.
+
+466
+00:46:52.829 --> 00:46:57.539
+And this is where my brain's not working this morning. Um.
+
+467
+00:46:57.539 --> 00:47:03.690
+So, in the skin get hub project, if we can create.
+
+468
+00:47:03.690 --> 00:47:07.860
+2 distinct some projects.
+
+469
+00:47:07.860 --> 00:47:12.690
+1 project is the adopted documents.
+
+470
+00:47:12.690 --> 00:47:15.989
+The other 1 is the work in progress.
+
+471
+00:47:15.989 --> 00:47:24.599
+And that way, your work in progress is where the folks who are still working on documents that haven't been adopted yet.
+
+472
+00:47:24.599 --> 00:47:28.619
+Can use and track.
+
+473
+00:47:28.619 --> 00:47:32.039
+Their work, but then once.
+
+474
+00:47:32.039 --> 00:47:36.300
+I'm expecting like, the use cases and the base schema and protocol.
+
+475
+00:47:36.300 --> 00:47:43.559
+Once those get adopted than they move from that sub project from the work in progress to be adopted.
+
+476
+00:47:44.639 --> 00:47:51.090
+Um, and so I I couldn't remember if that's the way.
+
+477
+00:47:51.090 --> 00:47:56.789
+If you had created it as a project, I just created a repo called scam.
+
+478
+00:47:56.789 --> 00:48:04.500
+And I can create multiple repos, or I could have 1 repo with multiple folders in the repo where we could move files from here to there.
+
+479
+00:48:04.500 --> 00:48:12.059
+Work in project or something? Yeah, it could have 2 separate separate. You'd have project projects.
+
+480
+00:48:12.059 --> 00:48:19.829
+I don't know if anybody has already done this in other groups but what I've typically seen is a repo per draft.
+
+481
+00:48:19.829 --> 00:48:23.099
+And, uh, the nice thing about that is it keeps the issues.
+
+482
+00:48:23.875 --> 00:48:38.664
+On a repo, and then the issues are associated with a particular draft. So, um, this may be only a problem in larger groups where there sometimes are drafts that people are not interested in and only interested in some and lets you manage discussions better that way.
+
+483
+00:48:38.969 --> 00:48:42.420
+That's typically how I've seen it done though.
+
+484
+00:48:42.420 --> 00:48:48.420
+Yeah, so this is oh, sorry if I can just explain so.
+
+485
+00:48:48.420 --> 00:48:52.050
+This is where I get lost in in the vocabulary, right? Because.
+
+486
+00:48:52.050 --> 00:48:55.860
+For the wraps working group, I've created an organization.
+
+487
+00:48:55.860 --> 00:48:59.670
+Which I think of is it's a GitHub you go to GitHub.
+
+488
+00:48:59.670 --> 00:49:06.000
+Blah, blah racks and then there there is a separate repo.
+
+489
+00:49:06.000 --> 00:49:11.909
+For each of the drafts now and all the other working groups, we've only, um.
+
+490
+00:49:11.909 --> 00:49:18.000
+We only allow the adopted drafts in those organizations, or right?
+
+491
+00:49:18.000 --> 00:49:25.440
+But I haven't gone deeper right into which is why I was calling them a project.
+
+492
+00:49:25.440 --> 00:49:29.159
+Or an organization than having someone's underneath.
+
+493
+00:49:29.159 --> 00:49:42.804
+Which I think is doable. My apologies I cut someone off. Yeah, I think that that's a really good, uh, suggestion, Erin and Nancy, so this is such a new thing.
+
+494
+00:49:42.864 --> 00:49:46.824
+There's not much going on cause we've been treading very lately a little bit scared.
+
+495
+00:49:47.159 --> 00:49:54.929
+To start doing things until we kinda came to an agreement um, I can create multiple repos for the different drafts.
+
+496
+00:49:54.929 --> 00:49:59.730
+We'd like to do that. Yeah. Work in progress. Thanks.
+
+497
+00:49:59.730 --> 00:50:03.449
+Now, let me, let me take a look at it again.
+
+498
+00:50:03.449 --> 00:50:09.719
+Right, right so the gating thing is and again, typically we.
+
+499
+00:50:09.719 --> 00:50:14.099
+We only grant access to the authors.
+
+500
+00:50:14.099 --> 00:50:19.710
+For actual now, I don't remember I have to go back and look.
+
+501
+00:50:19.710 --> 00:50:27.510
+Before I speak. Um, no, that sounds that sounds right only the authors get right access to it. Anybody is able to.
+
+502
+00:50:27.510 --> 00:50:32.699
+You know, send a pull request to suggest changes, but only the editors can merge.
+
+503
+00:50:32.699 --> 00:50:38.579
+Yeah, and so that's administrators would would manage that, which would be the chairs.
+
+504
+00:50:38.579 --> 00:50:45.480
+I think Phil wanted to something so, 1 of the things I want to be cautious of, because 1 of the.
+
+505
+00:50:45.480 --> 00:50:50.250
+Things as it was an author, you're trying to trigger the group to read your content.
+
+506
+00:50:50.250 --> 00:50:54.210
+So the only thing that they cautious of is the work in progress.
+
+507
+00:50:54.210 --> 00:51:00.539
+You want to do it in a way that doesn't generate noise because then people stop reading anything.
+
+508
+00:51:00.539 --> 00:51:04.800
+Um, and so I like the idea of.
+
+509
+00:51:04.800 --> 00:51:11.789
+If it's just holding the working group jobs and and per project so you can say I'm focusing on.
+
+510
+00:51:11.789 --> 00:51:20.280
+The, uh, W, whatever the draft is, and I want to post an issue for it. So I think that's going to work really well, because it helps.
+
+511
+00:51:20.280 --> 00:51:23.309
+Solve the problem that the mailing list has had.
+
+512
+00:51:23.309 --> 00:51:31.079
+The work in progress that's sort of maybe their the authors are going to work in a branch that the general public isn't seeing.
+
+513
+00:51:31.079 --> 00:51:35.309
+And the reason for that is that you're trying not to.
+
+514
+00:51:35.309 --> 00:51:40.380
+Distract people with the noise you want them to say, okay, I've publish this. Go and read it now.
+
+515
+00:51:40.380 --> 00:51:45.360
+Supported by the efforts of the chairs to, to, to remind people.
+
+516
+00:51:45.360 --> 00:51:49.469
+Um, but I, I, I sort of conscious of noise.
+
+517
+00:51:49.469 --> 00:51:53.909
+Oh, okay. You know, it's not authors going back and forth. You don't want to.
+
+518
+00:51:53.909 --> 00:51:57.869
+The stare of everyone, so not every check in gets.
+
+519
+00:51:57.869 --> 00:52:03.750
+Sent to the mailing list. All right. Uh, yeah, I think that's a good suggestion to you.
+
+520
+00:52:03.750 --> 00:52:08.610
+I would say anytime you publish it to the document engine.
+
+521
+00:52:08.610 --> 00:52:13.889
+It should be in the GitHub also published in the main master branch.
+
+522
+00:52:13.889 --> 00:52:20.880
+Whatever you call it, um, and then you also publish the engine so it's formally registered.
+
+523
+00:52:20.880 --> 00:52:28.050
+And then that's your trigger to let everybody know, okay. Draft 3 is there a draft or is there and so on? But.
+
+524
+00:52:28.050 --> 00:52:32.369
+As you as the authors are revising that drafts.
+
+525
+00:52:32.369 --> 00:52:38.099
+The general worker probably isn't interested unless they choose to follow it and get hub.
+
+526
+00:52:38.099 --> 00:52:43.320
+I think that's it. Yeah, it's a great way of saying it and that's again, I think the benefit of.
+
+527
+00:52:43.320 --> 00:52:57.690
+Organizing it as a repo per draft so that, um, as a, you know, as as someone who's on GitHub, you can choose to watch particular repos and and you'll get notifications of of issues in only the ones that you're watching and you can turn off.
+
+528
+00:52:57.690 --> 00:53:01.710
+Notifications, if you don't want to follow the details of a particular 1.
+
+529
+00:53:01.710 --> 00:53:07.320
+Um, the individual commits aren't really like, pushed anywhere and nobody sees those anyway.
+
+530
+00:53:07.320 --> 00:53:12.420
+Unless we hook up a bot to report those to the mailing list, which I don't think is a good idea.
+
+531
+00:53:12.420 --> 00:53:21.179
+But it's mainly the issues that get the sort of traffic and the discussion going and being able to filter those.
+
+532
+00:53:21.179 --> 00:53:24.239
+To choose which ones to tune in to is really helpful.
+
+533
+00:53:26.760 --> 00:53:31.079
+Okay, do I have any volunteers that want to help me to structure this?
+
+534
+00:53:31.079 --> 00:53:36.539
+In our, I'm happy to help, I can help you to know. I mean.
+
+535
+00:53:36.539 --> 00:53:45.150
+Aaron, and I will be the the ultimate administrators anyway, so yeah, you totally are. You know, I welcome your.
+
+536
+00:53:45.150 --> 00:53:52.949
+Guidance, but, uh, at sometimes, sometimes it just feels like just the collaboration is impeding us at the moment. I think when we get that going that.
+
+537
+00:53:54.090 --> 00:53:58.110
+Start cooking with gas.
+
+538
+00:53:58.110 --> 00:54:01.739
+Ok, with that, I've got 1 minute left.
+
+539
+00:54:01.739 --> 00:54:09.239
+So this is what I have is a tentative agenda and Danny.
+
+540
+00:54:09.239 --> 00:54:17.489
+Depending on the times that we want to spend on the bulk of the work, meaning the use cases protocol and schema.
+
+541
+00:54:17.489 --> 00:54:22.590
+If you want to add the, I'll call it confidential fields for now.
+
+542
+00:54:22.590 --> 00:54:25.590
+You were referring it to it as the.
+
+543
+00:54:25.590 --> 00:54:37.110
+Photos I can add that, but, um, something for you to know. And I'll, I'll ping Pam too. And how much time you think you'll need.
+
+544
+00:54:37.110 --> 00:54:41.610
+To cover each of them we.
+
+545
+00:54:41.610 --> 00:54:46.019
+So, given our last.
+
+546
+00:54:46.019 --> 00:54:55.019
+Meeting I only asked for 12 hour session, moving forward. Once we pick up the momentum we can ask for more time.
+
+547
+00:54:55.019 --> 00:54:59.159
+So, currently we have 2 hours allocated.
+
+548
+00:54:59.159 --> 00:55:03.090
+We have about an hour and a half left.
+
+549
+00:55:03.090 --> 00:55:06.360
+Um, for these.
+
+550
+00:55:06.360 --> 00:55:13.739
+These meetings, sorry for the main. And then Danny, if you want me to add the other 1.
+
+551
+00:55:13.739 --> 00:55:20.130
+We can add that as well or you can bring it up in the context of, um.
+
+552
+00:55:20.130 --> 00:55:23.340
+The protocol and schema discussion.
+
+553
+00:55:23.340 --> 00:55:34.920
+You can pull that in there too, because for me what what you're discussing yeah. What you're discussing also goes to the security and the privacy considerations.
+
+554
+00:55:34.920 --> 00:55:38.880
+Um, the threat modeling, right?
+
+555
+00:55:38.880 --> 00:55:45.030
+And privacy modeling for what we want to standardize.
+
+556
+00:55:46.829 --> 00:55:47.219
+Sorry,
+
+557
+00:55:47.215 --> 00:55:49.974
+you were gonna say something um,
+
+558
+00:55:50.005 --> 00:55:50.215
+yeah,
+
+559
+00:55:50.244 --> 00:55:50.755
+just that,
+
+560
+00:55:51.054 --> 00:55:51.684
+um,
+
+561
+00:55:51.804 --> 00:55:53.994
+I don't have a strong preference 1 way,
+
+562
+00:55:53.994 --> 00:55:57.324
+or the other of if we try to solve this,
+
+563
+00:55:57.355 --> 00:55:57.684
+I guess,
+
+564
+00:55:57.684 --> 00:55:58.344
+as part of,
+
+565
+00:55:58.885 --> 00:55:59.065
+like,
+
+566
+00:55:59.065 --> 00:56:00.625
+the main protocol line,
+
+567
+00:56:00.625 --> 00:56:01.585
+or if it just,
+
+568
+00:56:01.795 --> 00:56:02.065
+you know,
+
+569
+00:56:02.094 --> 00:56:05.965
+get get a rag tag group of people together and write a draft to at least,
+
+570
+00:56:06.295 --> 00:56:06.505
+you know,
+
+571
+00:56:06.505 --> 00:56:08.545
+have a way to address the the problem.
+
+572
+00:56:11.639 --> 00:56:15.269
+So, how are we yeah, I guess, uh, you know.
+
+573
+00:56:15.269 --> 00:56:19.769
+Structure it, administratively of where we're trying to put the solution.
+
+574
+00:56:19.769 --> 00:56:28.320
+Right now, it's not feeling to me as a separate draft, as I mentioned to me, it's feeling more like a security consideration and privacy.
+
+575
+00:56:28.320 --> 00:56:32.130
+Um, and it could, and I misunderstanding the problem, right?
+
+576
+00:56:32.130 --> 00:56:39.900
+But, let's absolutely get that in the open. All right, so I can ping you guys, um.
+
+577
+00:56:39.900 --> 00:56:46.139
+In the next day or 2 give you time to think about it, but I do need to post a rough agenda.
+
+578
+00:56:46.139 --> 00:56:50.820
+I think by the end of this week, if I'm not already.
+
+579
+00:56:50.820 --> 00:56:54.119
+Um, to the website. Okay.
+
+580
+00:56:54.119 --> 00:56:57.329
+I apologize I ran us 1 minute over time.
+
+581
+00:56:57.329 --> 00:57:02.760
+Thank you everyone for joining the call. We will see you.
+
+582
+00:57:02.760 --> 00:57:07.260
+And Vienna, either virtually or in person.
+
+583
+00:57:10.500 --> 00:57:14.610
+All right. Thanks everyone thanks.
+
+584
+00:57:14.610 --> 00:57:19.199
+Bye bye. Bye. Bye. Bye. Bye. Bye.
+
+585
+00:57:19.199 --> 00:57:19.980
+Hello.
+
